@@ -21,7 +21,7 @@ Equipment Tracker is a modern, high-performance web application designed for ind
 **Equipment Tracker** provides a seamless experience for managing industrial machinery. The application features a sleek, glassmorphic UI, real-time filtering, and full CRUD capabilities, ensuring that your equipment data is always accurate and accessible.
  
 
-![Homepage Screenshot](./client/src/assets/homePage.png)
+![Homepage Screenshot](./client/src/assets/Home.png)
 
 ---
 
